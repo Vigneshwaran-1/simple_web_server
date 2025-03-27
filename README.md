@@ -34,8 +34,7 @@ content = """
         body {
             font-family: Arial, sans-serif;
             background-color: rgb(181, 176, 176);
-          
-            display: flex;
+          display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;

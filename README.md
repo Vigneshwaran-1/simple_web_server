@@ -130,7 +130,7 @@ server_address = ('', 8080)
 httpd = HTTPServer(server_address, myhandler)
 print("My webserver is running...")
 httpd.serve_forever()
-~~
+~~~~
 # OUTPUT:
 ![Screenshot 2025-03-27 162200](https://github.com/user-attachments/assets/ef221a6c-6bad-477a-87ee-cd5e2533f3f9)
 ![Screenshot 2025-03-27 162019](https://github.com/user-attachments/assets/5e9f7158-aac8-4424-ae7b-e04ce2f250de)
